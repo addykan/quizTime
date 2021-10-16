@@ -1,3 +1,4 @@
+# From CMU 15-112 at https://www.cs.cmu.edu/~112/notes/cmu_112_graphics.py
 from cmu_112_graphics import *
 import time
 
